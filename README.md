@@ -33,4 +33,9 @@
 - 熟悉 Git
 - GitHub Page
 
+### 作品
 
+- <a href="https://bruperlee.github.io/TaipeiEmergency/" target="_blank">臺北市最新災情資料查詢</a>
+  
+  - BootStrap 快速建立具有 RWD 的網頁
+  - Fetch 介接 台北市消防局 JSON
